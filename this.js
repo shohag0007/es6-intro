@@ -19,3 +19,6 @@ console.log(kodom);
 
 const vaja = new Person('vaja badam');
 vaja.sleep();
+
+//
+const lazy = kodom.sleep;
